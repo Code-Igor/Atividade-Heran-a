@@ -1,2 +1,2 @@
-# Atividade-Herança
-Trabalho da Faculdade, para a disciplina "Programação Orientada a Objetos".
+# Inheritance-activity
+University assignment for the course 'Object-Oriented Programming'
